@@ -89,9 +89,9 @@ Os arquivos são organizados em pastas:
 
 ## Regras de acessos e Hierarquias
 
-<a href="https://bitbucket.org/going2-mobile/parc-bolsas-frontend/src/develop/PARC-Menus_e_Acessos.xlsx" target="_blank" download>Acessos</a>
+<a href="https://github.com/desenvolvedorabc/BOLSAS-APLICATIVO/blob/main/PARC-Menus_e_Acessos.xlsx" target="_blank" download>Acessos</a>
 
-<a href="https://bitbucket.org/going2-mobile/parc-bolsas-frontend/src/develop/Guia_de_regras_de_negócios-Hierarquia_de_Acessos.pdf" target="_blank" download>Hierarquia</a>
+<a href="https://github.com/desenvolvedorabc/BOLSAS-APLICATIVO/blob/main/Guia_de_regras_de_neg%C3%B3cios-Hierarquia_de_Acessos.pdf" target="_blank" download>Hierarquia</a>
 
 ## ⚙️ Bibliotecas, Frameworks e Dependencias
 
